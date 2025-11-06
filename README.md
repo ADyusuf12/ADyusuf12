@@ -1,19 +1,19 @@
 👋 Hi, I’m Abdullahi Yusuf
-I’m a backend developer with ~2 years of experience building and maintaining scalable web applications. My strongest tools are Ruby on Rails and Python/Django REST Framework, and I enjoy designing clean APIs, implementing authentication, and writing automated tests to keep systems reliable.
+I’m a backend developer with ~3 years of experience building and maintaining scalable web applications. My strongest tools are Ruby on Rails and Python/Django REST Framework, and I enjoy designing clean APIs, implementing authentication, and writing automated tests to keep systems reliable.
 
 🔧 Tech Stack
-Languages & Frameworks: Ruby, Rails, Python, Django REST Framework
+Languages & Frameworks: Ruby, Rails, Python, Django REST Framework, FastAPI
 
 Databases: PostgreSQL, MySQL
 
 Tools: Git, GitHub (PR workflow, code reviews), Postman, Jira
 
-Testing: RSpec, FactoryBot, Django TestCase
+Testing: RSpec, FactoryBot, pytest
 
 Other: Background jobs, CSV import/export, web scraping, ML (NumPy, Pandas, scikit-learn)
 
 💻 Experience
-Software Developer Intern @ Outsource Global – Contributed to a production ERP system with Rails, implementing HR automation features, authentication flows, and writing RSpec tests. Collaborated in Agile sprints using Jira and GitHub PR reviews.
+Software Developer @ Outsource Global – Contributed to a production ERP system with Rails, implementing HR automation features, authentication flows, and writing RSpec tests. Collaborated in Agile sprints using Jira and GitHub PR reviews.
 
 Backend Developer @ Earmark Investments & Properties – Built a Django-based property platform with search, authentication, and a machine learning model for price prediction.
 
