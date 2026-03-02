@@ -32,6 +32,8 @@ I’m a backend engineer with 3+ years of professional experience designing, bui
 - **[PriceWatcher API](https://github.com/ADyusuf12/Price-Watcher)**  
   Price comparison platform for Nigerian e‑commerce. Built Python scrapers for Jumia/Konga, Rails API with versioned endpoints, and React + Vite frontend. Containerized with Docker Compose.
 
+- **[Construction ERP](https://github.com/ADyusuf12/Construction-ERP)**  
+ A centralized platform for managing core business operations in a construction setting. Built with a modern Rails 8 stack, Hotwire Turbo and Stimulus + tailwind
 ---
 
 ## 🎯 Current Focus
