@@ -20,7 +20,7 @@ I’m a backend engineer with 3+ years of professional experience designing, bui
 - **Backend Developer @ Earmark Investments & Properties**  
   Built a Django‑based property platform with search, authentication, and a machine learning model for price prediction. Scraped 7,000+ real estate records and trained regression models for pricing insights.
 
-- **Freelance ERP Developer (Hamzis Systems)**  
+- **Freelance ERP Developer**  
   Architecting a custom ERP for a construction startup using Rails monolith + Hotwire/Turbo/Stimulus + Tailwind CSS. Designed modules for Projects, Tasks, HR Employees, and Financial Transactions. Implemented Solid Queue for background jobs and Pundit for fine‑grained authorization. Delivered production‑ready architecture with clean MVC separation and RESTful APIs.
 
 ---
@@ -37,9 +37,8 @@ I’m a backend engineer with 3+ years of professional experience designing, bui
 ## 🎯 Current Focus
 - Scaling Rails applications with modern patterns (Hotwire, Turbo, Stimulus, Tailwind).  
 - Strengthening DevOps practices: CI/CD pipelines, containerization, automated testing.  
-- Delivering impact‑driven systems in ERP, fintech, and healthtech domains.  
-- Mentoring and collaborating in Agile teams to ship reliable, maintainable code.  
+- Delivering impact‑driven ERP systems 
 
 ---
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/abdullahi-yusuf-80b23a284/) · [GitHub](https://github.com/ADyusuf12) · [Twitter](https://twitter.com/abduldbt_)
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/abdullahi-yusuf-80b23a284/) · [Twitter](https://twitter.com/abduldbt_)
