@@ -1,10 +1,8 @@
-# 👋 Hi, I’m Abdullahi Yusuf
-
-I’m a backend engineer with 3+ years of professional experience designing, building, and maintaining production‑grade web applications. My strongest tools are **Ruby on Rails** and **Python/Django REST Framework**, and I specialize in **API architecture, authentication, and automated testing**. I’ve contributed to ERP systems used by 900+ employees, built custom platforms for startups, and delivered projects end‑to‑end from design to deployment.
+Software Developer with 4 years of professional experience designing, building, and maintaining production‑grade web applications. My strongest tools are **Ruby on Rails** and **Python/Django REST Framework**, and I specialize in **API architecture, authentication, and automated testing**. I’ve contributed to ERP systems used by 900+ employees, built custom platforms for startups, and delivered projects end‑to‑end from design to deployment.
 
 ---
 
-## 🔧 Tech Expertise
+## Tech Expertise
 - **Languages & Frameworks:** Ruby, Rails, Python, Django REST Framework, FastAPI  
 - **Databases:** PostgreSQL, MySQL, ActiveRecord, Django ORM  
 - **Tools:** Git & GitHub (PR workflow, code reviews), Docker (Compose, containerized development), Postman, Jira  
@@ -13,9 +11,9 @@ I’m a backend engineer with 3+ years of professional experience designing, bui
 
 ---
 
-## 💻 Professional Experience
+## Professional Experience
 - **Software Developer @ Outsource Global**  
-  Contributed to a Rails‑based ERP system serving 900+ employees. Delivered HR automation features (bulk onboarding, salary exports, leave cancellations), enhanced authentication flows, and implemented token verification endpoints. Practiced strict TDD with RSpec and collaborated in Agile sprints with GitHub PR reviews.
+  Contributed to a Rails‑based ERP system serving 900+ employees. Delivered HR automation features (bulk onboarding, salary exports, leave cancellations), enhanced authentication flows, and implemented token verification endpoints. Collaborated in Agile sprints with GitHub PR reviews.
 
 - **Backend Developer @ Earmark Investments & Properties**  
   Built a Django‑based property platform with search, authentication, and a machine learning model for price prediction. Scraped 7,000+ real estate records and trained regression models for pricing insights.
@@ -25,7 +23,7 @@ I’m a backend engineer with 3+ years of professional experience designing, bui
 
 ---
 
-## 🚀 Projects
+## Projects
 - **[Real Estate API & Frontend](https://github.com/ADyusuf12/Earmark-Rails-API)**  
   Full‑featured Rails API + React frontend for property listings. Includes JWT authentication, role‑based access, listings CRUD, saved listings, dashboards, and RSpec coverage. Deployed with Fly.io and Docker.
 
@@ -36,11 +34,11 @@ I’m a backend engineer with 3+ years of professional experience designing, bui
  A centralized platform for managing core business operations in a construction setting. Built with a modern Rails 8 stack, Hotwire Turbo and Stimulus + tailwind
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Scaling Rails applications with modern patterns (Hotwire, Turbo, Stimulus, Tailwind).  
 - Strengthening DevOps practices: CI/CD pipelines, containerization, automated testing.  
 - Delivering impact‑driven ERP systems 
 
 ---
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/abdullahi-yusuf-80b23a284/) · [Twitter](https://twitter.com/abduldbt_)
+ **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/abdullahi-yusuf-80b23a284/) · [Twitter](https://twitter.com/abduldbt_)
