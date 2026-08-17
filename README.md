@@ -19,17 +19,11 @@ Software Developer with 4 years of professional experience designing, building, 
   Built a Django‑based property platform with search, authentication, and a machine learning model for price prediction. Scraped 7,000+ real estate records and trained regression models for pricing insights.
 
 - **Freelance ERP Developer**  
-  Architecting a custom ERP for a construction startup using Rails monolith + Hotwire/Turbo/Stimulus + Tailwind CSS. Designed modules for Projects, Tasks, HR Employees, and Financial Transactions. Implemented Solid Queue for background jobs and Pundit for fine‑grained authorization. Delivered production‑ready architecture with clean MVC separation and RESTful APIs.
+  Architected a custom ERP for a construction startup using Rails monolith + Hotwire/Turbo/Stimulus + Tailwind CSS. Designed modules for Projects, Tasks, HR Employees, and Financial Transactions. Implemented Solid Queue for background jobs and Pundit for fine‑grained authorization. Delivered production‑ready architecture with clean MVC separation and RESTful APIs.
 
 ---
 
 ## Projects
-- **[Real Estate API & Frontend](https://github.com/ADyusuf12/Earmark-Rails-API)**  
-  Full‑featured Rails API + React frontend for property listings. Includes JWT authentication, role‑based access, listings CRUD, saved listings, dashboards, and RSpec coverage. Deployed with Fly.io and Docker.
-
-- **[PriceWatcher API](https://github.com/ADyusuf12/Price-Watcher)**  
-  Price comparison platform for Nigerian e‑commerce. Built Python scrapers for Jumia/Konga, Rails API with versioned endpoints, and React + Vite frontend. Containerized with Docker Compose.
-
 - **[Construction ERP](https://github.com/ADyusuf12/Construction-ERP)**  
  A centralized platform for managing core business operations in a construction setting. Built with a modern Rails 8 stack, Hotwire Turbo and Stimulus + tailwind
 ---
